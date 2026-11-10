@@ -55,7 +55,7 @@ guest@themridul:~$ _
 
 ```
 Platforms & Infra   : Linux · AWS · Cloudflare · Hetzner · Nginx · systemd
-Languages           : Go · Python · C/C++ · TypeScript
+Languages           : Go · Python · C/C++ · TypeScript · Rust (learning)
 Frontend & Backend  : React · Next.js · Node.js · PostgreSQL · SQLite
 Tools               : Docker · GitHub Actions · Android Studio · Firebase
 ```
@@ -67,6 +67,7 @@ Tools               : Docker · GitHub Actions · Android Studio · Firebase
 | **[themridul.in](https://themridul.in/l/gh)** | The x-ray portfolio and terminal, its Go/SQLite backend, VPS and CI/CD. Source is private. `Go` `TypeScript` `Nginx` |
 | **Underwriting model** | Loan underwriting from bureau and bank data, built for Rupezi. Private; a toy version is on the site. |
 | **[BBS-induction26](https://github.com/TheMridul/BBS-induction26)** | Induction-event platform with route-guarded steps, teams, timed challenges and a leaderboard. `React` |
+| **[deadbeat](https://github.com/TheMridul/deadbeat)** | Catches your deadbeat jobs. A desktop notification when a training run, build, EC2 instance or agent loop stalls, finishes or fails, with an Omarchy bar plugin that turns red when one does. Ships a skill so coding agents register long jobs instead of polling. `Rust` `QML` `systemd`<br><img alt="Deadbeat panel listing a stalled training run, a failed test, a running agent branch and a finished build" src="https://raw.githubusercontent.com/TheMridul/deadbeat/main/docs/screenshot.png" width="420"> |
 | **[high-RISC](https://github.com/TheMridul/high-RISC)** | RISC-V assembler and processor simulator. `Python` |
 | **[metro_simulator](https://github.com/TheMridul/metro_simulator)** | Metro trip planning and arrival estimates across line interchanges. `Python` |
 | **[dotfiles](https://github.com/TheMridul/dotfiles)** | Hyprland/Omarchy, LazyVim and terminal config for my daily driver. `Shell` |
